@@ -78,3 +78,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+/* Make repo links specifically blue */
+.repo-link {
+    color: #0000FF; /* Blue */
+}
+
+.repo-link:hover {
+    text-decoration: underline;
+}
